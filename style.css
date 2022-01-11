@@ -39,7 +39,6 @@ p {
 }
 
 .header__card {
-	background-color: aliceblue;
 	border-radius: 12px;
 	display: flex;
 	flex-direction: column;
