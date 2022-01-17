@@ -106,11 +106,15 @@ svg {
 }
 
 .setup {
-	background-color: #525252d0;
+	background-color: #fdd700d0;
 }
 
 .vscode {
 	background-color: #43a700;
+}
+
+.buyme {
+	background-color: #0a66c2;
 }
 
 .setup__title {
