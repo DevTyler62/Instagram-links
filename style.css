@@ -105,8 +105,12 @@ svg {
 	padding: 2rem;
 }
 
+.sponsor {
+	background-color: #ff004c;
+}
+
 .setup {
-	background-color: #fdd700d0;
+	background-color: #8300fdd0;
 }
 
 .vscode {
