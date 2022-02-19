@@ -63,8 +63,8 @@ p {
 }
 
 .click {
-	margin-right: 0.5rem;
-	margin-left: 0.5rem;
+	margin-right: 0.2rem;
+	margin-left: 0.2rem;
 	padding: 0.75rem;
 	border-radius: 1000rem;
 }
@@ -119,6 +119,7 @@ svg {
 
 .buyme {
 	background-color: #0a66c2;
+	margin-bottom: 5rem;
 }
 
 .setup__title {
@@ -129,21 +130,21 @@ svg {
 	color: white;
 }
 
-@media screen and (min-width: 576px) {
+@media only screen and (min-width: 576px) {
 	.container {
 		margin-left: auto;
 		margin-right: auto;
 	}
 }
 
-@media screen and (min-width: 767px) {
+@media only screen and (min-width: 767px) {
 	.container {
 		margin-left: auto;
 		margin-right: auto;
 	}
 }
 
-@media screen and (min-width: 992px) {
+@media only screen and (min-width: 992px) {
 	.container {
 		margin-left: auto;
 		margin-right: auto;
